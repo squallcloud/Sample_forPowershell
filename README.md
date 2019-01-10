@@ -1,0 +1,2 @@
+# Sample_forPowershell
+Powershellのサンプル

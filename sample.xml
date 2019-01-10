@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<Configuration>
+	<teamA>
+		<member1>
+			<name>Wakashimazu</name>
+			<number>1</number>
+			<position>GK</position>
+		</member1>
+		<member2>
+			<name>Misaki</name>
+			<number>11</number>
+			<position>MF</position>
+		</member2>
+	</teamA>
+	<teamB>
+		<member No = "1">
+			<name>Wakabayashi</name>
+			<number>22</number>
+			<position>GK</position>
+		</member>
+		<member No = "2">
+			<name>Jito</name>
+			<number>5</number>
+			<position>DF</position>
+		</member>
+		<member No = "3">
+			<name>Soda</name>
+			<number>7</number>
+			<position>DF</position>
+		</member>
+		<member No = "4">
+			<name>Ozora</name>
+			<number>10</number>
+			<position>MF</position>
+		</member>
+	</teamB>
+</Configuration>
